@@ -1,2 +1,2 @@
 # EulerProjectProblems
-My solutions to the problems found on EulerProject
+My solutions to the problems found on ProjectEuler
